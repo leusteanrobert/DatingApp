@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\robert\\ASPNET-Core-and-Angular\\API\\API.csproj": {}
+    "C:\\Users\\Bebe\\Desktop\\robert\\demo\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\robert\\ASPNET-Core-and-Angular\\API\\API.csproj": {
+    "C:\\Users\\Bebe\\Desktop\\robert\\demo\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\robert\\ASPNET-Core-and-Angular\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Bebe\\Desktop\\robert\\demo\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Projects\\robert\\ASPNET-Core-and-Angular\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Marian\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\robert\\ASPNET-Core-and-Angular\\API\\obj\\",
+        "projectPath": "C:\\Users\\Bebe\\Desktop\\robert\\demo\\DatingApp\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Bebe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bebe\\Desktop\\robert\\demo\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bebe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
