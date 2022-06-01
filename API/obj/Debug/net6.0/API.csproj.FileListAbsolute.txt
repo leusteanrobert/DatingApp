@@ -106,3 +106,11 @@ C:\Users\Bebe\Desktop\robert\demo\DatingApp\API\obj\Debug\net6.0\refint\API.dll
 C:\Users\Bebe\Desktop\robert\demo\DatingApp\API\obj\Debug\net6.0\API.pdb
 C:\Users\Bebe\Desktop\robert\demo\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\Bebe\Desktop\robert\demo\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\robert\ASPNET-Core-and-Angular\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
